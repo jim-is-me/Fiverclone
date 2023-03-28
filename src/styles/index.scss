@@ -1,0 +1,21 @@
+@import '../styles/compoents/Navbar.scss';
+@import './compoents/Featured.scss';
+@import './compoents/Footer.scss';
+@import './compoents/TrustedBy.scss';
+@import './compoents/CatCard.scss';
+@import './compoents/Slide.scss';
+@import './pages/Home.scss';
+@import './compoents/ProjectCard.scss';
+@import './compoents/GigCard.scss';
+@import './pages/Gigs.scss';
+@import './compoents/Gig.scss';
+@import './pages/MyGigs.scss';
+@import './pages/Message.scss';
+@import './pages/Messages.scss';
+
+* {
+    .link {
+      text-decoration: none;
+      color: inherit;
+    }
+  }
